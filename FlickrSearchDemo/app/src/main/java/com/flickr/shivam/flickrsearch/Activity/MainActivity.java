@@ -20,10 +20,10 @@ import com.flickr.shivam.flickrsearch.R;
 import static android.content.ContentValues.TAG;
 
 public class MainActivity extends Activity {
-//062a6c0c49e4de1d78497d13a7dbb360
+
 	EditText etSearch;
 	Button btnSearch;
-	private static final int CONTACT_PICKER_RESULT = 1001;
+	
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
